@@ -27,6 +27,8 @@ creator:
 description: Compiles more than sixty of the poet's works, written for both children
   and adults, expressing his observations of the simple life and revealing his sense
   of humor.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15834#The-Book-of-Joyous-Children
 gutenberg_issued: '2005-05-16'
 gutenberg_type: Text
 identifiers:
